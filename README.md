@@ -83,7 +83,8 @@ May include but not limited to: Install and configure Azure AD Connect; configur
 
 
 # AZ-100 Links
-
+|AZ-100|
+--------
 [Microsoft Azure AZ-100 certification exam tip: Know the steps required to deploy Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=azure-portal)
 
 |[Microsoft Azure AZ-100 certification exam tip: Know the steps required to deploy Azure File Sync]|
