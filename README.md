@@ -132,5 +132,3 @@ Microsoft Azure AZ-100 objective of the day: Implement and set taxonomic tagging
 Microsoft Azure AZ-100 objective of the day: Move resources across resource groups.
 Microsoft Azure AZ-100 objective of the day: Remove resource groups.
 Microsoft Azure AZ-100 certification exam tip: Be able to use taxonomic tags to help define cost reports in Azure.
-
-
