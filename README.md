@@ -9,7 +9,7 @@ If you find this useful please share in any shape and let me know on twitter [@M
 
 Happy Studying.
 
-- [AZ-100](AZ-100 links.md)
+- [AZ-100](AZ-100_links.md)
 
 # AZ-100 Microsoft Azure Infrastructure and Deployment
 Skills measured, look at the official link for potential updates [AZ-100](https://www.microsoft.com/en-us/learning/exam-AZ-100.aspx)
