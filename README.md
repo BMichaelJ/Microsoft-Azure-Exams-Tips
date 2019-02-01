@@ -13,8 +13,8 @@ Happy Studying.
 - [AZ-101](AZ-101Links.md)
 
 
-[AZ-100_Skills_Measured](README.md#AZ-100 Microsoft Azure Infrastructure and Deployment)
-[AZ-101_Skills_Measured](README.md#AZ-101 Microsoft Azure Integration and Security)
+- [AZ-100 Skills Measured](README.md#AZ-100-Microsoft-Azure-Infrastructure-and-Deployment)
+- [AZ-101 Skills Measured](README.md#AZ-101-Microsoft-Azure-Integration-and-Security)
 
 
 
