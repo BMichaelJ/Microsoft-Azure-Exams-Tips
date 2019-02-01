@@ -2,15 +2,15 @@
 
 |AZ-100|
 |------|
-|[Know the steps required to deploy Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=azure-portal)|()
-|[Understand the steps required to use the Azure Import/Export service. ]()|
-|[Understand how to troubleshoot Azure Recovery Services vault deletions. ]()|
-|[Be aware of why and when Azure Storage Explorer can be useful. ]()|
-|[Know how to use VM extensions to automate post-deployment configuration management. ]()|
-|[Be able to differentiate features among the various Azure VM size categories. ]()|
-|[Understand the "gotchas" involved in moving Azure resources between resource groups and regions. ]()|
-|[Understand the "gotchas" involved in moving Azure resources between subscriptions. ]()|
-|[Be aware of Cloudyn and the other Azure tools to help you manage cost. ]()|
+|[Know the steps required to deploy Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=azure-portal)|
+|[Understand the steps required to use the Azure Import/Export service. ](https://docs.microsoft.com/en-us/azure/storage/common/storage-import-export-service)|
+|[Understand how to troubleshoot Azure Recovery Services vault deletions. ](https://techcommunity.microsoft.com/t5/Azure/Troubleshooting-Unable-to-delete-Recovery-Services-Vault-Can-t/td-p/85945)|
+|[Be aware of why and when Azure Storage Explorer can be useful. ](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)|
+|[Know how to use VM extensions to automate post-deployment configuration management. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-use-extensions)|
+|[Be able to differentiate features among the various Azure VM size categories. ](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)|
+|[Understand the "gotchas" involved in moving Azure resources between resource groups and regions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
+|[Understand the "gotchas" involved in moving Azure resources between subscriptions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
+|[Be aware of Cloudyn and the other Azure tools to help you manage cost. ](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)|
 |[Be aware that Azure CLI v2.0 exists  but be prepared to interpret lots of Azure PowerShell. ]()|
 |[Be able to troubleshoot NSG assignments at the NIC and vNET subnet level. ]()|
 |[Differentiate between Application Security Groups and Network Security Groups ]()|
