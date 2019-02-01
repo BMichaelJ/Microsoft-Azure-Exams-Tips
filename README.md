@@ -1,15 +1,22 @@
 # Microsoft-Azure-Exams-Tips
 
-This list is composed taking twitter posts with study tips from [@techtrainertim](https://twitter.com/techtrainertim) and adding links from docs.com on the specific tip.
-Thanks @tectrainertim for these posts, they are very useful studying for the AZ certifications.
+These lists are composed taking twitter posts with study tips from [@techtrainertim](https://twitter.com/techtrainertim) and adding links from docs.com on the the specific tip.
+Thanks [@techtrainertim](https://twitter.com/techtrainertim) for these posts, they are very useful studying for the AZ certifications.
 
 If you find a link being outdated or another link that would be better suited, please feel free to do a pull request.
 
-If you find this useful please share in any shape and let me know on twitter [@Michael_Jonsson](https://twitter.com/Michael_Jonsson)
+Also If you find this useful please share it and let me know on twitter if it was useful or not [@Michael_Jonsson](https://twitter.com/Michael_Jonsson)
 
 Happy Studying.
 
 - [AZ-100](AZ-100Links.md)
+- [AZ-101](AZ-101Links.md)
+
+
+[AZ-100_Skills_Measured](README.md#AZ-100 Microsoft Azure Infrastructure and Deployment)
+[AZ-101_Skills_Measured](README.md#AZ-101 Microsoft Azure Integration and Security)
+
+
 
 # AZ-100 Microsoft Azure Infrastructure and Deployment
 Skills measured, look at the official link for potential updates [AZ-100](https://www.microsoft.com/en-us/learning/exam-AZ-100.aspx)
@@ -79,3 +86,15 @@ May include but not limited to: Create users and groups; manage user and group p
 
 ## Implement and manage hybrid identities
 May include but not limited to: Install and configure Azure AD Connect; configure federation and single sign-on; manage Azure AD Connect; manage password sync and writeback 
+
+
+
+
+
+# AZ-101 Microsoft Azure Integration and Security
+
+- Evaluate and perform server migration to Azure (15-20%)
+- Implement and manage application services (20-25%)
+- Implement advanced virtual networking (30-35%)
+- Secure identities (25-30%)
+
