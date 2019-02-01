@@ -18,7 +18,7 @@ Happy Studying.
 
 
 
-- AZ-100 Microsoft Azure Infrastructure and Deployment
+# AZ-100 Microsoft Azure Infrastructure and Deployment
 Skills measured, look at the official link for potential updates [AZ-100](https://www.microsoft.com/en-us/learning/exam-AZ-100.aspx)
 
 - Manage Azure subscriptions and resources (15-20%)
@@ -29,7 +29,7 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 
 
 
- -Manage Azure subscriptions and resources (15-20%) 
+# Manage Azure subscriptions and resources (15-20%) 
 May include but not limited to: Assign administrator permissions; configure cost center quotas and tagging; configure Azure subscription policies at Azure subscription level
 
 ## Analyze resource utilization and consumption May include but not limited to:
