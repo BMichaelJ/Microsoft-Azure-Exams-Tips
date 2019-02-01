@@ -2,7 +2,7 @@
 
 |AZ-100|
 |------|
-|[Microsoft Azure AZ-100 certification exam tip: Know the steps required to deploy Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=azure-portal)|
+|[Know the steps required to deploy Azure File Sync](https://docs.microsoft.com/en-us/azure/storage/files/storage-sync-files-deployment-guide?tabs=azure-portal)|
 |Microsoft Azure AZ-100 certification exam tip: Know the steps required to deploy Azure File Sync|
 |Microsoft Azure AZ-100 certification exam tip: Understand the steps required to use the Azure Import/Export service. |
 |Microsoft Azure AZ-100 certification exam tip: Understand how to troubleshoot Azure Recovery Services vault deletions. |
