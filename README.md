@@ -12,7 +12,7 @@ Happy Studying.
 - [AZ-100](AZ-100Links.md) Study tips for AZ 100
 - [AZ-101](AZ-101Links.md) Study tips for AZ 101
 
-To know what will be measure look below, the study tips have been grouped accordingly
+To know what will be measured look below, the study tips have been grouped accordingly
 
 - [AZ-100 Skills Measured](README.md#AZ-100-Microsoft-Azure-Infrastructure-and-Deployment)
 - [AZ-101 Skills Measured](README.md#AZ-101-Microsoft-Azure-Integration-and-Security)
