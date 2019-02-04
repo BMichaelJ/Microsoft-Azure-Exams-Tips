@@ -9,15 +9,14 @@ Also If you find this useful please share it and let me know on twitter if it wa
 
 Happy Studying.
 
-- [AZ-100](AZ-100Links.md)
-- [AZ-101](AZ-101Links.md)
+- [AZ-100](AZ-100Links.md) Study tips for AZ 100
+- [AZ-101](AZ-101Links.md) Study tips for AZ 101
 
+To know what will be measure look below, the study tips have been grouped accordingly
 
 - [AZ-100 Skills Measured](README.md#AZ-100-Microsoft-Azure-Infrastructure-and-Deployment)
 - [AZ-101 Skills Measured](README.md#AZ-101-Microsoft-Azure-Integration-and-Security)
 
-
-[AZ-101_Skills_Measured](README.md#AZ-101 Microsoft Azure Integration and Security)
 
 # **AZ-100 Microsoft Azure Infrastructure and Deployment**
 Skills measured, look at the official link for potential updates [AZ-100](https://www.microsoft.com/en-us/learning/exam-AZ-100.aspx)
