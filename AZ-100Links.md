@@ -13,7 +13,10 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |[Understand the "gotchas" involved in moving Azure resources between resource groups and regions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
 |[Understand the "gotchas" involved in moving Azure resources between subscriptions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
 |[Be aware of Cloudyn and the other Azure tools to help you manage cost. ](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)|
-
+|[Configure cost center quotas and taxonomic tagging. ](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started)|
+|[Assign administrator permissions to Azure AD and Azure resources. ](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles)|
+|[Know when and how to apply and lift resource locks in Azure. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)|
+|[Understand when and how you register Azure resource providers. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services)|
 
 |Implement and manage storage (20-25%)|
 |------|
@@ -26,13 +29,18 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |------|
 |[Know how to use VM extensions to automate post-deployment configuration management. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-use-extensions)|
 |[Be able to differentiate features among the various Azure VM size categories. ](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)|
+|[Be aware that Azure CLI v2.0 exists  but be prepared to interpret lots of Azure PowerShell. ](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)|
 
 |Configure and manage virtual networks (20-25%)|
 |------|
-
+|[Be able to troubleshoot NSG assignments at the NIC and vNET subnet level. ](https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)|
+|[Differentiate between Application Security Groups and Network Security Groups ](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)|
+|[Be able to troubleshoot name resolution in Azure  especially when involving Azure DNS zones ](https://docs.microsoft.com/en-us/azure/dns/dns-troubleshoot)|
+|[Be able to troubleshoot VM network connectivity by using Network Watcher. ](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem)|
 
 |Manage identities (15-20%)|
 |------|
+|[Know how to configure Azure AD Connect  especially in a fault-tolerant manner. ](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-operations#disaster-recovery) [extra link](https://blog.kloud.com.au/2016/12/06/real-world-azure-ad-connect-the-case-for-two-azure-ad-connect-servers/)|
 
 |All questions/link for AZ-100 not grouped|
 |------|
@@ -45,17 +53,17 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |[Understand the "gotchas" involved in moving Azure resources between resource groups and regions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
 |[Understand the "gotchas" involved in moving Azure resources between subscriptions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
 |[Be aware of Cloudyn and the other Azure tools to help you manage cost. ](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)|
+|[Be aware that Azure CLI v2.0 exists  but be prepared to interpret lots of Azure PowerShell. ](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)|
+|[Be able to troubleshoot NSG assignments at the NIC and vNET subnet level. ](https://docs.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem)|
+|[Differentiate between Application Security Groups and Network Security Groups ](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)|
+|[Understand when and how you register Azure resource providers. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services)|
+|[Know when and how to apply and lift resource locks in Azure. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-lock-resources)|
+|[Be able to troubleshoot VM network connectivity by using Network Watcher. ](https://docs.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem)|
+|[Be able to troubleshoot name resolution in Azure  especially when involving Azure DNS zones ](https://docs.microsoft.com/en-us/azure/dns/dns-troubleshoot)|
+|[Assign administrator permissions to Azure AD and Azure resources. ](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles)|
+|[Configure cost center quotas and taxonomic tagging. ](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started)|
+|[Know how to configure Azure AD Connect  especially in a fault-tolerant manner. ](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-operations#disaster-recovery) [extra link](https://blog.kloud.com.au/2016/12/06/real-world-azure-ad-connect-the-case-for-two-azure-ad-connect-servers/)|
 
-|[Be aware that Azure CLI v2.0 exists  but be prepared to interpret lots of Azure PowerShell. ]()|
-|[Be able to troubleshoot NSG assignments at the NIC and vNET subnet level. ]()|
-|[Differentiate between Application Security Groups and Network Security Groups ]()|
-|[Understand when and how you register Azure resource providers. ]()|
-|[Know when and how to apply and lift resource locks in Azure. ]()|
-|[Be able to troubleshoot VM network connectivity by using Network Watcher. ]()|
-|[Be able to troubleshoot name resolution in Azure  especially when involving Azure DNS zones ]()|
-|[Assign administrator permissions to Azure AD and Azure resources. ]()|
-|[Configure cost center quotas and taxonomic tagging. ]()|
-|[Know how to configure Azure AD Connect  especially in a fault-tolerant manner. ]()|
 |[Configure Azure policies at the subscription level. ]()|
 |[Know how to manage licenses in your Azure AD tenant. ]()|
 |[Configure diagnostic settings on Azure resources. ]()|
