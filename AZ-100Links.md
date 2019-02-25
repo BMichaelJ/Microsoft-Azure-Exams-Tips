@@ -91,7 +91,7 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |[Be able to troubleshoot name resolution in Azure  especially when involving Azure DNS zones ](https://docs.microsoft.com/en-us/azure/dns/dns-troubleshoot)|
 |[Assign administrator permissions to Azure AD and Azure resources. ](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-assign-admin-roles)|
 |[Configure cost center quotas and taxonomic tagging. ](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started)|
-|[Know how to configure Azure AD Connect  especially in a fault-tolerant manner. ](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-operations#disaster-recovery) [ALSO see this extra link](https://blog.kloud.com.au/2016/12/06/real-world-azure-ad-connect-the-case-for-two-azure-ad-connect-servers/)|
+|[Know how to configure Azure AD Connect  especially in a fault-tolerant manner. ](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-sync-operations#disaster-recovery) [ALSO!! see this extra link](https://blog.kloud.com.au/2016/12/06/real-world-azure-ad-connect-the-case-for-two-azure-ad-connect-servers/)|
 |[Configure Azure policies at the subscription level. ](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)|
 |[Know how to manage licenses in your Azure AD tenant. ](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/license-users-groups)|
 |[Configure diagnostic settings on Azure resources. ](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-logs-overview)|
