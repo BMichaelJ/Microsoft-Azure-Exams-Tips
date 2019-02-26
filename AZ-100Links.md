@@ -78,7 +78,6 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |[Understand how to troubleshoot Azure Recovery Services vault deletions. ](https://techcommunity.microsoft.com/t5/Azure/Troubleshooting-Unable-to-delete-Recovery-Services-Vault-Can-t/td-p/85945)|
 |[Be aware of why and when Azure Storage Explorer can be useful. ](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)|
 |[Know how to use VM extensions to automate post-deployment configuration management. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-use-extensions)|
-|[Be able to differentiate features among the various Azure VM size categories. ](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)|
 |[Understand the "gotchas" involved in moving Azure resources between resource groups and regions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
 |[Understand the "gotchas" involved in moving Azure resources between subscriptions. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#checklist-before-moving-resources)|
 |[Be aware of Cloudyn and the other Azure tools to help you manage cost. ](https://docs.microsoft.com/en-us/azure/cost-management/overview-cost-mgt)|
