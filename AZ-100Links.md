@@ -19,7 +19,7 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |[Understand when and how you register Azure resource providers. ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-supported-services)|
 |[Configure Azure policies at the subscription level. ](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-and-manage)|
 |[Configure diagnostic settings on Azure resources. ](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-logs-overview)|
-|[*** Missing link!!   Create a performance baseline for Azure resources ]()|
+|[Create a performance baseline for Azure resources ](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)|
 |[Be sure you can interpret JSON  especially in Azure Policy and ARM templates. ](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure)|
 |[Create and test alerts and action groups. ](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups)|
 |[Understand the relationship between App Service apps and Service Plans. ](https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans)|
@@ -96,7 +96,7 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |[Know how to manage licenses in your Azure AD tenant. ](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/license-users-groups)|
 |[Configure diagnostic settings on Azure resources. ](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-logs-overview)|
 |[Be aware of the idfix utility and why you might use it in conjunction with Azure AD Connect. ](https://docs.microsoft.com/en-us/office365/enterprise/install-and-run-idfix)|
-|[*** Missing link!!   Create a performance baseline for Azure resources ]()|
+|[Create a performance baseline for Azure resources ](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)|
 |[Be sure you can interpret JSON  especially in Azure Policy and ARM templates. ](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure)|
 |[Create and test alerts and action groups. ](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups)|
 |[Understand the relationship between App Service apps and Service Plans. ](https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans)|
