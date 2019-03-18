@@ -121,3 +121,53 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 |[Move resources across resource groups.](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources)|
 |[Remove resource groups.](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-delete)|
 ||[Be able to use taxonomic tags to help define cost reports in Azure.](https://docs.microsoft.com/en-us/azure/billing/billing-getting-started)|
+
+|Additional objectives for AZ-100 related training - Missing links, pls add them!|
+|-----|
+|[objective of the day: Create an export from Azure job with Import/Export service]()|
+|[objective of the day: Create an import into Azure job with Import/Export service]().|
+|[objective of the day: Use Azure Data Box for data import into Azure]().|
+|[objective of the day: Configure and use Azure blob storage]().|
+|[objective of the day: Configure Azure Content Delivery Network (CDN) endpoints]().|
+|[objective of the day: Create an Azure file share]().|
+|[objective of the day: Create an Azure File Sync service instance]().|
+|[objective of the day: Create an Azure File Sync sync group]().|
+|[objective of the day: Troubleshoot Azure File Sync]().|
+|[objective of the day: Configure and review Azure VM backup reports]().|
+|[objective of the day: Perform an Azure VM backup operation]().|
+|[objective of the day: Create a Recovery Services vault]().|
+|[objective of the day: Create and configure a backup policy]().|
+|[objective of the day: Perform an Azure VM and/or disk restore operation]().|
+|[objective of the day: Configure high availability for Azure VMs]().|
+|[objective of the day: Configure monitoring, networking, storage, and VM size]().|
+|[objective of the day: Deploy and configure Azure VM scale sets]().|
+|[objective of the day: Modify an Azure Resource Manager (ARM) template]().|
+|[objective of the day: Configure and enforce the location of new VMs in Azure]().|
+|[objective of the day: Configure a virtual hard disk (VHD) template for VMs in Azure]().|
+|[objective of the day: Deploy a new Azure VM from a template]().|
+|[objective of the day: Save an Azure VM deployment as an ARM template]().|
+|[objective of the day: Deploy Windows and Linux VMs by using the Azure portal and Azure PowerShell]().|
+|[objective of the day: Add data disks to a VM in Azure]().|
+|[objective of the day: Add network interfaces to a VM running in Azure]().|
+|[objective of the day: Automate configuration management by using PowerShell DSC and VM agent by using custom script extension]()s|
+|[objective of the day: Manage VM sizes in the Azure Portal or with Azure PowerShell]().|
+|[objective of the day: Move Azure VMs from one resource group to another]().|
+|[objective of the day: Redeploy Windows Server or Linux VMs in the Azure portal]().|
+|[objective of the day: Configure backup for Windows Server and Linux VMs in Azure]().|
+|[objective of the day: Define backup policies for Windows Server and Linux VMs in Azure]().|
+|[objective of the day: Implement backup policies for Windows Server and Linux VMs in Azure]().|
+|[objective of the day: Perform full VM restore in the Azure portal]().|
+|[objective of the day: Create and configure Azure virtual network (VNet) peering]().|
+|[objective of the day: Verify virtual network connectivity with Azure Network Watcher]().|
+|[objective of the day: Create a virtual network gateway in the Azure portal]().|
+|[objective of the day: Configure private and public IP addresses for Azure VMs]().|
+|[objective of the day: Configure network routes on Azure virtual network (VNet) subnets]().|
+|[objective of the day: Configure network interfaces on Azure virtual machines (VMs)]().|
+|[objective of the day: Configure subnets and virtual networks in the Azure Portal and with Azure PowerShell]().|
+|[objective of the day: Configure Azure DNS in the Azure portal and with Azure PowerShell]().|
+|[objective of the day: Configure custom DNS settings for an Azure virtual network (VNet) subnet]().|
+|[objective of the day: Configure private and public Azure DNS zones]().|
+|[objective of the day: Create network security group (NSG) security rules]().|
+|[objective of the day: Associate a network security group (NSG) to a subnet or network interface in Azure]().|
+|[objective of the day: Identify required ports for inter-VM communications in Azure]().|
+|[objective of the day: Evaluate effective security rules for VMs with Azure Network Watcher.]()|
