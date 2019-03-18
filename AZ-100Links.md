@@ -7,6 +7,8 @@ Skills measured, look at the official link for potential updates [AZ-100](https:
 - **Configure and manage virtual networks (20-25%)**
 - **Manage identities (15-20%)**
 
+Fork this repo and use the last chapter for "objective of the day" tasks as training steps.
+
 
 |Manage Azure subscriptions and resources (15-20%|
 |------|
