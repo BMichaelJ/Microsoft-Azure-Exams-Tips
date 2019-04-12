@@ -8,6 +8,7 @@
 
 
 *|Microsoft AZ-300 (@Azure Architect Technologies) exam objective of the day|*
+
 |Deploy and configure infrastructure (25-30%)|
 |------|
 |[Configure storage.](https://docs.microsoft.com/en-us/azure/storage/common/storage-introduction)|
